@@ -1,4 +1,4 @@
-This assignment is going to contain some HTML file
+This assignment is going to contain some js-code file
 
 And we are using git here.
  
